@@ -10,6 +10,8 @@ Use `git` submodules: open a command prompt in your project folder and then:
 git submodule add https://github.com/Srynetix/godot-plugin-virtualcontrols addons/virtualcontrols
 ```
 
+This plugin depends on [godot-plugin-nodeext](https://github.com/Srynetix/godot-plugin-nodeext).
+
 ## How to use
 
 - Simply spawn the `VirtualControls` node, trigger visibility status with the `Visible` property.  
